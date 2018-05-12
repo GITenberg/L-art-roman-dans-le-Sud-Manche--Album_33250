@@ -1,0 +1,27 @@
+_repo: L-art-roman-dans-le-Sud-Manche--Album_33250
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lebert, Marie
+    gutenberg_agent_id: '32388'
+    url: http://www.gutenberg.org/2009/agents/32388
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2010-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33250'
+language: fr
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- Description and travel'
+- !lcc 'NA'
+- !lcsh 'Churches -- France -- Manche'
+title: 'L''art roman dans le Sud-Manche: Album'
+url: http://www.gutenberg.org/ebooks/33250
